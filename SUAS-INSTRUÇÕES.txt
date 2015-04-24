@@ -1,2 +1,55 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Projeto criado em JSF com primefaces e rodado no servidor de aplicaÃ§Ã£o JBOSS.
+O seguinte arquivo .txt de log foi usado para teste... 
+23/04/2013 15:34:22 - New match 11348965 has started
+23/04/2013 15:36:04 - Roman killed Nick using M16
+23/04/2013 15:36:09 - Roman killed Nick using AK47
+23/04/2013 15:36:33 - <WORLD> killed Nick by DROWN
+23/04/2013 15:37:00 - Nick killed Roman using AK47
+23/04/2013 15:37:03 - Roman killed Nick using M16
+23/04/2013 15:37:09 - Roman killed Ted using M16
+23/04/2013 15:37:25 - Ted killed Nick using M16
+23/04/2013 15:37:53 - <WORLD> killed Roman by DROWN
+23/04/2013 15:38:13 - Ted killed Roman using M16
+23/04/2013 15:38:24 - Nick killed Ted using M16
+23/04/2013 15:38:43 - Jhon killed Ted using M16
+23/04/2013 15:43:22 - Match 11348965 has ended
+06/11/2013 15:34:22 - New match 2222222 has started
+23/04/2013 15:36:04 - Roman killed Nick using M16
+23/04/2013 15:36:09 - Roman killed Nick using AK47
+23/04/2013 15:36:33 - <WORLD> killed Nick by DROWN
+23/04/2013 15:37:00 - Nick killed Roman using AK47
+23/04/2013 15:37:03 - Roman killed Nick using M16
+23/04/2013 15:37:09 - Roman killed Ted using M16
+23/04/2013 15:37:25 - Ted killed Nick using M16
+23/04/2013 15:37:53 - <WORLD> killed Roman by DROWN
+23/04/2013 15:38:13 - Ted killed Roman using M16
+23/04/2013 15:38:24 - Nick killed Ted using M16
+23/04/2013 15:43:22 - Match 11348965 has ended
+13/08/2014 15:34:22 - New match 33333333 has started
+23/04/2014 15:36:09 - Roman killed Nick using AK47
+23/04/2014 15:36:33 - <WORLD> killed Nick by DROWN
+23/04/2014 15:37:00 - Nick killed Roman using AK47
+23/04/2014 15:37:03 - Roman killed Nick using M16
+23/04/2014 15:37:09 - Roman killed Ted using M16
+23/04/2014 15:37:25 - Mike killed Nick using M16
+23/04/2014 15:37:53 - <WORLD> killed Roman by DROWN
+23/04/2014 15:38:13 - Mike killed Roman using M16
+23/04/2014 15:38:24 - Nick killed Ted using M16
+23/04/2014 15:43:22 - Match 11348965 has ended
+13/08/2014 15:34:22 - New match 44444444 has started
+23/05/2014 15:36:09 - Roman killed Nick using AK47
+23/05/2014 15:36:33 - <WORLD> killed Nick by DROWN
+23/05/2014 15:37:00 - Nick killed Roman using AK47
+23/05/2014 15:37:03 - Roman killed Nick using M16
+23/05/2014 15:37:09 - Roman killed Ted using M16
+23/05/2014 15:37:25 - Mike killed Nick using M16
+23/05/2014 15:37:53 - <WORLD> killed Roman by DROWN
+23/05/2014 15:38:13 - Mike killed Roman using M16
+23/05/2014 15:38:24 - Nick killed Ted using M16
+23/05/2014 15:38:30 - Nick killed Jhon using M16
+23/05/2014 15:38:24 - Jhon killed Ted using M16
+23/05/2014 15:38:24 - Melissa killed Roman using M16
+23/05/2014 15:39:00 - Paul killed Ted using AK47
+23/05/2014 15:39:14 - Paul killed Nick using M16
+23/05/2014 15:39:24 - Paul killed Roman using AK47
+23/05/2014 15:43:22 - Match 11348965 has ended
